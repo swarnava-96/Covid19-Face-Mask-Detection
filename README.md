@@ -2,7 +2,7 @@
 ### Goal: To create a face mask detector using Deep Learning and Computer Vision techniques.
 
 ### Libraries used: 
-Keras, VGG16, OpenCV, Haar Cascade Classifier. 
+Tensorflow, Keras, VGG16, OpenCV, Haar Cascade Classifier. 
 
 ### About the Data set: 
 The data set is downloaded from [Kaggle](https://www.kaggle.com/niharika41298/withwithout-mask). 
