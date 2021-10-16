@@ -32,6 +32,8 @@ VGG16 model, second, for displaying the text "Mask" or "No mask" and the third f
 
 ### Demo:
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/75041273/137604890-d25b6691-326d-4f6f-b90f-6e57ddeaf357.gif)
+
 ### Installation:
 The Code is written in Python 3.7.3 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 
